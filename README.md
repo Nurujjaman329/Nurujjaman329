@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurujjaman329&label=Profile%20views&color=0e75b6&style=flat" alt="nurujjaman329" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce-Sports**
+- 🔭 I’m currently working on **Edex-365**
 
 - 🌱 I’m currently learning **Flutter**
 
