@@ -1,32 +1,41 @@
 <div align="center">
-  <h1>MD NURUJJAMAN</h1>
-  <h3>Senior Flutter Engineer | Cross-Platform Systems Architect</h3>
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nurujjaman329)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdnurujjaman329@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nurujjaman-portfolio-site.vercel.app/)
-</div>
-
-<br />
-
-### 🚀 Engineering Overview
-
-Senior Flutter Developer with **nearly 3 years of production experience** delivering enterprise, social commerce, beauty marketplace, ride-sharing, and agri-tech platforms[cite: 1]. Shipped **12+ production applications** to the App Store & Google Play Store[cite: 1].
-
-- 🏗 **Architecture:** Clean Architecture, Modular Codebases, Domain-Driven Design (DDD), Repository Pattern[cite: 1].
-- ⚡ **State Management:** BLoC, Riverpod, GetX[cite: 1].
-- 📡 **Real-Time Systems:** Socket.IO multi-role communication, live location tracking, WebSockets, WebRTC video calling[cite: 1].
-- 💳 **Payments & APIs:** Stripe, bKash, Nagad, ShurjoPay, Google Maps SDK, Firebase Suite, REST APIs[cite: 1].
-
----
-
-### 🧰 Tech Stack
-
-```text
-Languages     : Dart, C, C++
-Framework     : Flutter (Cross-Platform iOS & Android)
-Architecture  : Clean Architecture, MVVM, Layered Architecture
-State Mgmt    : BLoC, Riverpod, GetX
-Real-Time     : Socket.IO, WebRTC, Firebase Realtime DB / Cloud Messaging
-Integrations  : Google Maps API, Stripe, bKash, Nagad, ShurjoPay, Biometric Auth, Deep Linking
-Tools & CI/CD : Git, GitHub, VS Code, Postman, Figma, Play Console, App Store Connect
+    <h1>MD. NURUJJAMAN</h1>
+    <h3>Flutter Developer · Cross-Platform Mobile Engineer</h3>
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nurujjaman329)
+    [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdnurujjaman329@gmail.com)
+    [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nurujjaman-portfolio-site.vercel.app/)
+  </div>
+  <br />
+  ### Engineering Overview
+  Flutter Developer with **3 years** of production experience building cross-platform apps across social commerce, beauty, fitness, ride-sharing, agri-tech and enterprise. Delivered **13+
+  production apps**, with **5 live** on the App Store and Google Play (Presentini, Fouta, BloodFit, Meghna).
+  - **Architecture:** Clean Architecture, feature-first modules, Repository pattern
+  - **State management:** Bloc, GetX, Provider, Riverpod
+  - **Real-time & maps:** Socket.IO, Google Maps, live location / geo discovery
+  - **Payments & APIs:** Stripe, bKash, Nagad, ShurjoPay, In-App Purchases, REST, Dio, Firebase
+  Case studies: [nurujjaman-portfolio-site.vercel.app/projects](https://nurujjaman-portfolio-site.vercel.app/projects)
+  ---
+  ### Tech Stack
+  ```text
+  Languages      : Dart
+  Framework      : Flutter (iOS & Android)
+  Architecture   : Clean Architecture
+  State Mgmt     : Bloc, GetX, Provider, Riverpod
+  Backend & APIs : REST, Dio, Firebase, Socket.IO
+  Payments       : Stripe, bKash, Nagad, ShurjoPay, In-App Purchases
+  Core Features  : Google Maps, Push Notifications, Deep Linking, Biometric Auth, Hive, Get Storage
+  Tools          : Git, GitHub, VS Code, Figma, Postman, Play Console, App Store Connect
+  ```
+  ---
+  ### Featured work
+  | App | Focus | Links |
+  | --- | --- | --- |
+  | Presentini | City discovery | [App Store](https://apps.apple.com/us/app/presentini/id6770782530) · [Play](https://play.google.com/store/apps/details?id=com.savvymyles.involved.involved) |     
+  | Fouta | 4-role social commerce | [App Store](https://apps.apple.com/us/app/fouta-app/id6749207732) · [Play](https://play.google.com/store/apps/details?id=com.fouta.foutaapp) |
+  | BloodFit | AI health & fitness | [Play](https://play.google.com/store/apps/details?id=com.bloodfitltd.bloodfit) |
+  | Meghna Life Insurance | Advisor / payments | [Play](https://play.google.com/store/apps/details?id=com.meghnalife.app.fa&hl=en) |
+  ---
+  ### Contact
+  - Portfolio: [nurujjaman-portfolio-site.vercel.app](https://nurujjaman-portfolio-site.vercel.app/)
+  - LinkedIn: [linkedin.com/in/nurujjaman329](https://www.linkedin.com/in/nurujjaman329/)
+  - Email: mdnurujjaman329@gmail.com
