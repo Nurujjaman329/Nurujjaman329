@@ -18,7 +18,7 @@ Building scalable iOS & Android apps with Clean Architecture and production-read
 
 Flutter Developer with **3 years** of production experience shipping cross-platform apps across **social commerce, beauty, health & fitness, ride-sharing, agri-tech, fintech, edtech, and enterprise**.
 
-* **Track Record:** Delivered **13+ production applications**, with **5 live** on the **App Store** and **Google Play**.
+* **Track Record:** Delivered **13+ production applications**, with **6 live** on the **App Store** and **Google Play**.
 * **Architecture First:** Feature-first modular codebases, **Clean Architecture**, and **Repository Pattern**.
 * **State Management:** **Bloc / Cubit**, **GetX**, **Riverpod**, and **Provider**.
 * **Integrations:** Socket.IO real-time sync, Google Maps / geo discovery, payments, push notifications, deep linking, and local caching (Hive / Get Storage).
@@ -104,13 +104,13 @@ Explore case studies: [Portfolio Projects](https://nurujjaman-portfolio-site.ver
 | **Fouta** | 4-role social commerce — feed, chat, checkout & delivery | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/fouta-app/id6749207732) [![Play Store](https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.fouta.foutaapp) |
 | **TNP Beauty** | Multi-role beauty marketplace — Customer, Vendor, Beautician + Stripe | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/app/the-noire-places/id6761523428) [![Play Store](https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.annadat.tnp) |
 | **BloodFit** | AI meal plans & workouts by blood type, Socket.IO + IAP | [![Play Store](https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.bloodfitltd.bloodfit) |
+| **Lyfuber** | Dual-role ride-sharing — live Maps tracking, Socket.IO trip state, Stripe | [![Play Store](https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.lyfuber.app&hl=en) [![Case Study](https://img.shields.io/badge/Case_Study-000000?style=flat-square&logo=vercel&logoColor=white)](https://nurujjaman-portfolio-site.vercel.app/projects/ride-sharing-app) |
 | **Meghna Life Insurance** | Dual-app advisor / customer suite — bKash & Nagad premiums | [![Play Store](https://img.shields.io/badge/Play_Store-34A853?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.meghnalife.app.fa&hl=en) |
 
 #### 💼 Enterprise & Client Deliveries
 
 | Product | Core Domain & Focus | Case Study |
 | :--- | :--- | :---: |
-| **Ride Sharing App** | Dual-role passenger & driver — live tracking, wallet, auto-pricing | [![Case Study](https://img.shields.io/badge/View-Project-000000?style=flat-square&logo=vercel&logoColor=white)](https://nurujjaman-portfolio-site.vercel.app/projects/ride-sharing-app) |
 | **MyKrishi** | Agri-tech investment — farmer, investor, agent + ShurjoPay | [![Case Study](https://img.shields.io/badge/View-Project-000000?style=flat-square&logo=vercel&logoColor=white)](https://nurujjaman-portfolio-site.vercel.app/projects/mykrishi) |
 | **Distributor Management System** | Field force / distributor ops — orders, IMEI sales, SR map tracking | [![Case Study](https://img.shields.io/badge/View-Project-000000?style=flat-square&logo=vercel&logoColor=white)](https://nurujjaman-portfolio-site.vercel.app/projects/distributor-management-system) |
 | **Edex-365** | EdTech — student/teacher problems, wallet & payments | [![Case Study](https://img.shields.io/badge/View-Project-000000?style=flat-square&logo=vercel&logoColor=white)](https://nurujjaman-portfolio-site.vercel.app/projects/edex-365) |
